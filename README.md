@@ -1,15 +1,16 @@
-# {name} [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
+# WeDeploy Demo Contribution Guidelines
 
-A demo of [{image1}](#), [{image2}](#), and [{image3}](#) on [WeDeploy](https://wedeploy.com/).
+> [View the example demo to see a sample README](https://github.com/wedeploy/demo-contribution/tree/master/demo-example)
 
-## Instructions
+Always keep these key principles in mind when building a WeDeploy Demo:
 
-1. Install the [WeDeploy CLI](https://wedeploy.com/docs/intro/using-the-command-line/)
-2. Go to the [WeDeploy Console](https://console.wedeploy.com) and create a new project
-3. Clone this repository and open it in a text editor
-4. Search for all occurrences of `{demoprojectid}.wedeploy.io` and replace with `yourproject.wedeploy.io`
-5. Open the project with your command line and run `we deploy -p yourproject`
+1) Build the demo as simple and lightweight as possible while still demonstrating the example.
+2) All instructions to get the demo working for the user should be included in the `README.md`. If your readme is getting to complex, you should consider creating a WeDeploy tutorial.
+3) Write code that is clear to understand and well organized.
+4) Don't assume the users of your demos will be WeDeploy experts.
 
-## License
+To start building your demo, begin by adding the files within the `template` folder to your project.
 
-[BSD-3-Clause](./LICENSE.md), © Liferay, Inc.
+In the end, this is how your demo repo should look?
+
+![screenshot](https://user-images.githubusercontent.com/23219848/32302911-8282cd58-bf22-11e7-927c-148a353e634f.png)
