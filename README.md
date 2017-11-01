@@ -1,4 +1,4 @@
-# WeDeploy Demo Contribution Guidelines
+# WeDeploy Demo Guidelines
 
 > [View the example template to see a sample README and LICENSE](./template/)
 
