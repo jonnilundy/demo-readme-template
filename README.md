@@ -11,4 +11,4 @@ Always keep these key principles in mind when building a WeDeploy Demo:
 
 In the end, this is how your demo repo should look:
 
-![screenshot](https://user-images.githubusercontent.com/23219848/32302911-8282cd58-bf22-11e7-927c-148a353e634f.png)
+![screenshot](https://user-images.githubusercontent.com/23219848/32303317-02dcfc10-bf25-11e7-98a1-b9d8163222ad.png)
