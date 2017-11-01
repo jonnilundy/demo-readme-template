@@ -1,6 +1,6 @@
 # WeDeploy Demo Contribution Guidelines
 
-> [View the example demo to see a sample README](https://github.com/wedeploy/demo-contribution/tree/master/demo-example)
+> [View the example template to see a sample README and LICENSE](./template/)
 
 Always keep these key principles in mind when building a WeDeploy Demo:
 
@@ -8,8 +8,6 @@ Always keep these key principles in mind when building a WeDeploy Demo:
 2) All instructions to get the demo working for the user should be included in the `README.md`. If your readme is getting to complex, you should consider creating a WeDeploy tutorial.
 3) Write code that is clear to understand and well organized.
 4) Don't assume the users of your demos will be WeDeploy experts.
-
-To start building your demo, begin by adding the files within the `template` folder to your project.
 
 In the end, this is how your demo repo should look?
 
