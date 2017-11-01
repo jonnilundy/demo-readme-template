@@ -9,6 +9,6 @@ Always keep these key principles in mind when building a WeDeploy Demo:
 3) Write code that is clear to understand and well organized.
 4) Don't assume the users of your demos will be WeDeploy experts.
 
-In the end, this is how your demo repo should look?
+In the end, this is how your demo repo should look:
 
 ![screenshot](https://user-images.githubusercontent.com/23219848/32302911-8282cd58-bf22-11e7-927c-148a353e634f.png)
