@@ -1,6 +1,6 @@
 # {name} [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-A demo of {image1}(#), {image2}(#), and {image3}(#) on [WeDeploy](https://wedeploy.com/).
+A demo of [{image1}](#), [{image2}](#), and [{image3}](#) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
