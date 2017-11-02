@@ -1,6 +1,6 @@
 # WeDeploy Demo Guidelines
 
-> [View the example template to see a sample README and LICENSE](./template/)
+> [View the example template to see a sample readme, license, and editorconfig.](./template/)
 
 Always keep these key principles in mind when building a WeDeploy Demo:
 
