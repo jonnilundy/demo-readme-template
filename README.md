@@ -11,4 +11,4 @@
 
 #### In the end, this is how your demo repo should look:
 
-![screenshot](https://user-images.githubusercontent.com/23219848/32303317-02dcfc10-bf25-11e7-98a1-b9d8163222ad.png)
+![screenshot](https://user-images.githubusercontent.com/23219848/32304076-c8c467ac-bf29-11e7-90a7-179f3b6b577d.png)
