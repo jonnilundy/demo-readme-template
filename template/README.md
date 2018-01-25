@@ -1,4 +1,6 @@
-# {name} [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
+[![Deploy](https://wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy/demo-{repo})
+
+# {name}
 
 A demo of [{image1}](#), [{image2}](#), and [{image3}](#) on [WeDeploy](https://wedeploy.com/).
 
